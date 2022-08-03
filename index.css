@@ -2,8 +2,10 @@ body {
     background-color: powderblue;
   }
   h1 {
+    position: center;
     color: blue;
   }
   p {
+    position: center;
     color: blue;
   }
